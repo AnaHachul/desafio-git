@@ -1,0 +1,3 @@
+Hello word!
+Aporendemos na aula programação orientada a objetos e o seus conceitos.
+O que é classe, o que é objetos e os seus atributos, no final da aula foi feito alguns exercício para melhor entendermos.
