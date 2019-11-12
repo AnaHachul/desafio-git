@@ -1,0 +1,8 @@
+Resumo última aula
+Programação orientada a objeto
+O objetivo da programação orientada a objeto é representar o mundo real.
+Utilizamos paradigmas
+Definimos a classe que será utilizada como modelo
+depois os atributos que representam as características
+seguido dos métodos que são as ações 
+e assim temos a criação de objetos 
